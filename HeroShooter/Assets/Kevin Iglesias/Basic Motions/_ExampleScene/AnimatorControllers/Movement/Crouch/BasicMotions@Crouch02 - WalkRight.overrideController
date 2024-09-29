@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicMotions@Crouch02 - WalkRight
+  m_Controller: {fileID: 9100000, guid: e974ce99d420ade42927bc957cc722f5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: d00e40ae8e8b2ab49b3b1992643dee6f, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: ff10a1c643b5c4e47893b44781af5eb9, type: 3}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bc0b72bce09323c489e05884dd11f20c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157744
+  packageName: Basic Motions
+  packageVersion: 2.0
+  assetPath: Assets/Kevin Iglesias/Basic Motions/_ExampleScene/AnimatorControllers/Movement/Crouch/BasicMotions@Crouch02
+    - WalkForward.overrideController
+  uploadId: 690967

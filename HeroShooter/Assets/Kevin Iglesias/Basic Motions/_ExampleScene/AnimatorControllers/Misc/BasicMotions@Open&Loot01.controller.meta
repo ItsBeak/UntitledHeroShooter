@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f77ec33c5b1b214aa5732b695d500f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157744
+  packageName: Basic Motions
+  packageVersion: 2.0
+  assetPath: Assets/Kevin Iglesias/Basic Motions/_ExampleScene/AnimatorControllers/Misc/BasicMotions@Open&Loot01.controller
+  uploadId: 690967

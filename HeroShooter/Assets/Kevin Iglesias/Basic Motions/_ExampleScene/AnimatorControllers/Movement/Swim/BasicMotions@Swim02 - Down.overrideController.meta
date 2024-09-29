@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c6fe35b39a95e14dba4a25c3871e9d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157744
+  packageName: Basic Motions
+  packageVersion: 2.0
+  assetPath: Assets/Kevin Iglesias/Basic Motions/_ExampleScene/AnimatorControllers/Movement/Swim/BasicMotions@Swim02
+    - Down.overrideController
+  uploadId: 690967

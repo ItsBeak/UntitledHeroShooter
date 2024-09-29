@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicMotions@Swim02 - ForwardRight
+  m_Controller: {fileID: 9100000, guid: 15b4c4b6b6e90c74f87cdbaf8f285693, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: a36c6dc76fa09c84e8817a2c184e88e7, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 1e59254a5eff3c443bff40fa3c420d77, type: 3}

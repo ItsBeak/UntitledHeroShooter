@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 654b75ae695dc92468b31214919a5882
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157744
+  packageName: Basic Motions
+  packageVersion: 2.0
+  assetPath: Assets/Kevin Iglesias/Basic Motions/_ExampleScene/AnimatorControllers/Movement/Swim/BasicMotions@Swim01
+    - Up.controller
+  uploadId: 690967

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicMotions@Turns02
+  m_Controller: {fileID: 9100000, guid: 7d9b5d10e26328645b89e935a09ab435, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 2ecc3c82b176838408acae18bebce6cd, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: d5d328a1cca19024f806356d17deabac, type: 3}
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 8b43f6d0e81cb93449b1cd4b5584b528, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: e654bddb243aa54459b7ed34ba746171, type: 3}

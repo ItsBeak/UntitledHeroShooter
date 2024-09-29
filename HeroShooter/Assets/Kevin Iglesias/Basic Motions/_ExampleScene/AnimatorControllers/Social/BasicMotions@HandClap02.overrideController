@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicMotions@HandClap02
+  m_Controller: {fileID: 9100000, guid: 4a15e3d3fc4b3404e8c048ad03c8d75a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 268e9db309a54b340a24f6eda5e0737f, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 8bb95cd3b51343642be9951e551cff4c, type: 3}

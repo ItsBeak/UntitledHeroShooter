@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4247cbb4be6e5e84c8cd52e417efb8d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 157744
+  packageName: Basic Motions
+  packageVersion: 2.0
+  assetPath: Assets/Kevin Iglesias/Basic Motions/_ExampleScene/AnimatorControllers/Movement/BasicMotions@Roll01.controller
+  uploadId: 690967
